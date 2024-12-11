@@ -9,7 +9,7 @@ HOW TO IMPORT
 
 - Make sure you have [PCF components enabled](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/component-framework-for-canvas-apps#enable-the-power-apps-component-framework-feature) in your environment.
 
-- Download the managed solution and import it into your environment.
+- Download the [managed solution](https://github.com/carelele/uvcanvas/releases/download/solution/uvcanvas_1_0_0_1_managed.zip) and import it into your environment.
 
 - [Add the component](https://learn.microsoft.com/en-us/power-apps/developer/component-framework/component-framework-for-canvas-apps#add-components-to-a-canvas-app) to your canvas app.
 
